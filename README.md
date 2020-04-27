@@ -1,5 +1,6 @@
 # OSLOthema-mijnThema
 
+
 **_Editors: lees eerst [deze richtlijnen](https://github.com/Informatievlaanderen/OSLO-toolchain/blob/master/doc-user/README.md)._**
 
 ## Administratieve informatie
